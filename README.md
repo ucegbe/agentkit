@@ -171,7 +171,8 @@ agentkit/
 │   ├── create-onchain-agent/
 │   ├── framework-extensions/
 │   │   ├── langchain/
-│   │   └── openai-agents-sdk/
+│   │   ├── openai-agents-sdk/
+|   |   └── strands-agents/
 │   └── examples/
 │       ├── langchain-cdp-chatbot/
 │       ├── langchain-cdp-smart-wallet-chatbot/
@@ -181,7 +182,8 @@ agentkit/
 │       ├── langchain-twitter-chatbot/
 │       ├── openai-agents-sdk-cdp-chatbot/
 │       ├── openai-agents-sdk-cdp-voice-chatbot/
-│       └── openai-agents-sdk-smart-wallet-chatbot/
+│       ├── openai-agents-sdk-smart-wallet-chatbot/
+|       └── strands-agents-cdp-server-chatbot/
 ```
 
 ## 🤝 Contributing
@@ -293,6 +295,7 @@ AgentKit is proud to have support for the following protocols, frameworks, walle
 <a href="https://sdk.vercel.ai" target="_blank"><img src="./assets/frameworks/vercel.svg" width="100" height="auto" alt="Vercel AI SDK"></a>
 <a href="https://modelcontextprotocol.io/" target="_blank"><img src="./assets/frameworks/modelcontextprotocol.svg" width="100" height="auto" alt="Model Context Protocol"></a>
 <a href="https://platform.openai.com/docs/guides/agents-sdk" target="_blank"><img src="./assets/frameworks/openai.svg" width="100" height="auto" alt="Agents SDK"></a>
+<a href="https://strandsagents.com/latest/documentation/docs/" target="_blank"><img src="./assets/frameworks/strands.svg" width="100" height="auto" alt="Strands Agents"></a>
 
 ### Networks
 
